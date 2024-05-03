@@ -1,0 +1,20 @@
+git remote add origin https://github.com/mousaei67/test.git
+
+git branch -M main
+
+
+git remote rm origin
+
+git remove -v
+git clone --branch master "adres"
+
+git pull origin master
+
+git add -A
+git add *"py"
+
+git commit -m "message"
+
+git status
+git log
+
